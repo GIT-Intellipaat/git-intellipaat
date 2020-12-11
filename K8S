@@ -1,4 +1,4 @@
-node ("Maven label){
+node ("Docker label"){
 }
 
 
